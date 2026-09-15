@@ -5,18 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YostDev&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="YostDev visitas" />
 </p>
-
----
-
 ### 👨‍💻 Un poco sobre mí
-
-*¡Claro que sí! Aquí tienes una base moderna creada en **Markdown** (con un toque de HTML). Es el formato estándar y más elegante para perfiles, foros o documentación, ya que es ligero y visualmente atractivo.
-
-## Tu Plantilla Moderna
-
-Copia y pega el siguiente código en tu editor o perfil. 
-
-```markdown
 <div align="center">
 
 # ¡Hola! Soy [Tu Nombre] 👋
