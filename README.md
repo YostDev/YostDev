@@ -8,10 +8,6 @@
 ### 👨‍💻 Un poco sobre mí
 <div align="center">
 
-# ¡Hola! Soy [Tu Nombre] 👋
-
-### 🚀 Desarrollador | Creador | Entusiasta de la Tecnología
-
 Un breve texto sobre ti. Aquí puedes contar de dónde eres, qué te apasiona o qué estás aprendiendo actualmente.
 
 <img src="https://media.giphy.com/media/qgQUggCGvnPvgCE45y/giphy.gif" width="250" />
