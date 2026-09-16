@@ -1,15 +1,10 @@
 <img src="banner.png" width="100%" align="center">
-<h1 align="center">¡Hola! Soy Fabian, alias YostDev</h1><p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YostDev&theme=tokyonight&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
+<h1 align="center">¡Hola! Soy Fabian, alias YostDev</h1>
 <h3 align="center">Desarrollador de paginas y aplicaciones web</h3>
 
 <!-- Contador de visitas -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YostDev&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="YostDev visitas" />
-  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YostDev&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
 </p>
 
 ---
@@ -22,6 +17,9 @@
 
 <p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight" alt="Quote de Programación" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YostDev&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
