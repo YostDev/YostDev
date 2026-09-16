@@ -15,12 +15,9 @@
 
 ---
 
-📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YostDev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de YostDev" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YostDev&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="150" />
-</div>
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight" alt="Quote de Programación" />
+</p>
 
 ---
 
