@@ -1,4 +1,4 @@
-<img src="banner.png" width="50%" align="center">
+<img src="banner.png" width="100%" align="center">
 <h1 align="center">¡Hola! Soy Fabian, alias YostDev</h1>
 <h3 align="center">Desarrollador de paginas y aplicaciones web</h3>
 
